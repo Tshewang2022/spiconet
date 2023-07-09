@@ -1,0 +1,10 @@
+/*
+Theme Name: Twenty Twenty
+URI: http://www.yoursite.com/
+Description: Child theme based on the Twenty Ten theme
+uthor: Author's Name
+Author URI: http: //www.authorsurl.com/
+Template: twentyten
+Version: 1.0
+*/
+@import url('../twentyten/style.css')
